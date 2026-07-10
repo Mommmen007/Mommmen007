@@ -130,7 +130,7 @@ iVolve
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/Mommmen007
-- LinkedIn: *(Add your LinkedIn URL here)*
+- LinkedIn: https://www.linkedin.com/in/momenelgedawy
 
 ---
 
